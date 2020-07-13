@@ -1,0 +1,6 @@
+C:\SRC\20200625\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\SRC\20200625\3\bin\Debug\3.exe.config
+C:\SRC\20200625\3\bin\Debug\3.exe
+C:\SRC\20200625\3\bin\Debug\3.pdb
+C:\SRC\20200625\3\obj\Debug\3.exe
+C:\SRC\20200625\3\obj\Debug\3.pdb

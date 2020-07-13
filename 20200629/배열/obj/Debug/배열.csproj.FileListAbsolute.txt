@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\20200629\배열\bin\Debug\배열.exe.config
+C:\Users\user\Source\Repos\20200629\배열\bin\Debug\배열.exe
+C:\Users\user\Source\Repos\20200629\배열\bin\Debug\배열.pdb
+C:\Users\user\Source\Repos\20200629\배열\obj\Debug\배열.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\20200629\배열\obj\Debug\배열.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\20200629\배열\obj\Debug\배열.exe
+C:\Users\user\Source\Repos\20200629\배열\obj\Debug\배열.pdb
