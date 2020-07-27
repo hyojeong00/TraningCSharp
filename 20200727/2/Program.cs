@@ -20,6 +20,11 @@ namespace _2
 
         static void Main(string[] args)
         {
+            int iNum = 100;
+            unsafe //안전하지 않다는 것을 알고있다고 알려주기 위함 //프로젝트-속성-안전하지않은 코드 속성 사용
+            {
+                Console.WriteLine("{0:X}", (int)&iNum);
+            }
             MessageBeep(0);
         }
     }
