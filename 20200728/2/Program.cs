@@ -13,7 +13,7 @@ class Program
         Socket Client = Server.Accept();
         Console.WriteLine("Client Incomming");
 
-        byte[] Buffer = new byte[] { 65, 66, 67, 68 };
+        byte[] Buffer = new byte[] { 65, 66, 67, 68 };  //Blocking method 흐름이 막혀있는 상태 
         Client.Send(Buffer); //텔넷이 아스키코드로 해석해서 ABCD로 출력
 
 
